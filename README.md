@@ -11,4 +11,4 @@ This project contains two phases:
 
 
 ## Confidentiality Notice: 
-Only code relevant part of the project is included for data confidentiality. All etensive data cleaning phases, data files, or traces of them have been ereased from the notebooks. Thank you for your understanding.
+Only code relevant part of the project is included for data confidentiality. All intensive data cleaning and analysis phases, data files, or traces of them have been erased from the notebooks. Thank you for your understanding.
